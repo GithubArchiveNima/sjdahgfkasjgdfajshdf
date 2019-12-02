@@ -1,0 +1,19 @@
+{
+  "name": "TDD_mocha_chai",
+  "version": "1.0.0",
+  "description": "- Mocha - Chai  - TDD vs. BDD - Modules + NPM",
+  "main": "app.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pad": "^3.2.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  }
+}
